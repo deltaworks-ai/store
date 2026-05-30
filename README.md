@@ -1,2 +1,14 @@
-# store
-Results, not sales | Completed systems are presented as outcomes of the Δ process. The store is a gallery of validated results, not a sales funnel. If a system exists here, it has already survived the lower layers.
+# deltaworks.store
+
+Results, not options.
+
+Completed systems are presented as outcomes,  
+not as configurations.
+
+This layer:
+
+• shows what exists  
+• provides context  
+• reflects validated work  
+
+The store is a gallery, not a shop.
