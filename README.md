@@ -1,6 +1,6 @@
 # deltaworks.store
 
-**results, not options.**
+**results, not options.**  
 Completed systems are presented as outcomes,  
 not as configurations.
 
